@@ -1,4 +1,6 @@
 ### HENRIQUE MOREIRA
+<img src="https://raw.githubusercontent.com/henrique2m/henrique2m/main/assets/capa-github.jpg" alt="javascript" width="100%"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-moreira-51699618b/)](https://www.linkedin.com/in/henrique-moreira-51699618b/)
 
 *Formado em Análise e Desenvolvimento de Sistemas, focado em desenvolver habilidades na Stack JavaScript (ReactJS, React Native e NodeJS). Sempre estou buscando explorar o fantástico mundo do desconhecido, com a finalidade de continuar aprendendo coisas novas diariamente.*
